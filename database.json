@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "name": "air",
+      "brand": "nike",
+      "price": 12000,
+      "description": "Легендарные кроссовки Nike Air Force 1 Mid в исполнении Utility, будут отличным выбором на весну или осень. Непромока...",
+      "image": "https://images.ru.prom.st/824661715_w640_h640_krossovki-nike-air.jpg",
+      "color": "white",
+      "id": 1
+    },
+    {
+      "name": "air 1",
+      "brand": "nike",
+      "price": 15000,
+      "description": "Кроссовки Nike Air Max 720 размеры 36-40",
+      "image": "https://sneakers24.ru/image/cache/catalog/product/nike/n317-480x420.png",
+      "color": "green",
+      "id": 2
+    },
+    {
+      "name": "air force",
+      "brand": "nike",
+      "price": 18000,
+      "description": "Размеры: 39-45",
+      "image": "https://nike-off.ru/wp-content/uploads/2018/11/Jordan-1-retro-high-og-red-white-575441_101-1200x1200.jpg",
+      "color": "gray",
+      "id": 3
+    },
+    {
+      "name": "air max",
+      "brand": "nike",
+      "price": 20000,
+      "description": "Совершенной классикой уже успели стать модели спортивной обуви Air Max 90. Универсальный дизайн позволяет использоват...",
+      "image": "https://kemerovo.step-man.com/wp-content/uploads/2021/02/air-jordan-travis-scott-881fqk.jpg",
+      "color": "green",
+      "id": 4
+    },
+    {
+      "name": "roshe",
+      "brand": "nike",
+      "price": 10000,
+      "description": "размеры 39-42 женский и мужской",
+      "image": "https://krosboot.ru/388-large_default/krossovki-nike-free-run-30-sinie-letnie.jpg",
+      "color": "blue",
+      "id": 5
+    },
+    {
+      "name": "air max 87",
+      "brand": "nike",
+      "price": 7000,
+      "description": "размеры 28-34 для детей",
+      "image": "https://chevli.com.ua/image/cache/data/Nike/Max%2087/Myzhskie_krossovki_Nike_Air_87-500x500.jpg",
+      "color": "white",
+      "id": 6
+    },
+    {
+      "name": "air presto",
+      "brand": "nike",
+      "price": 21000,
+      "description": "размеры 37-43 весна и лето",
+      "image": "https://images.satu.kz/61129098_w500_h500_letnie-krossovki-nike.jpg",
+      "color": "blue",
+      "id": 7
+    },
+    {
+      "name": "air focre 1",
+      "brand": "nike",
+      "price": 25000,
+      "description": "размеры 38-45 все сезонные",
+      "image": "https://images.satu.kz/167777549_w640_h640_krossovki-najk-fors.jpg",
+      "color": "white",
+      "id": 8
+    },
+    {
+      "name": "air max 90",
+      "brand": "nike",
+      "price": 17000,
+      "description": "размеры 37-42",
+      "image": "http://4.bp.blogspot.com/-GOfQOb1gtpc/U7n7zxU99QI/AAAAAAAAABg/v6exlca6TmI/s1600/nike+air+max+90+hyperfuse+american+flag+mens+shoes+red_01.jpg",
+      "color": "red",
+      "id": 9
+    },
+    {
+      "name": "air jordan",
+      "brand": "nike",
+      "price": 28000,
+      "description": "размеры 42-48 летние",
+      "image": "https://yeezycross.ru/image/cache/catalog/product/nike-air-jordan-4-retro-zhen-blackcement-greyred-009_2-1000x1340.jpg",
+      "color": "red-black",
+      "id": 10
+    },
+    {
+      "name": "jordan air",
+      "brand": "nike",
+      "price": 45000,
+      "description": "размеры 40-46 осень",
+      "image": "https://outmaxshop.ru/components/com_jshopping/files/img_products/19073/nike-jordan-why-not-zer0-2-19073-5.jpg",
+      "color": "dark",
+      "id": 11
+    },
+    {
+      "name": "jordan apex air",
+      "brand": "nike",
+      "price": 32000,
+      "description": "размеры 40-43 осень",
+      "image": "https://хасл.рф/components/com_jshopping/files/img_products/16897/nike-jordan-apex-react-16897-2.jpg",
+      "color": "red",
+      "id": 12
+    },
+    {
+      "name": "air jordan retro",
+      "brand": "nike",
+      "price": 41000,
+      "description": "размеры 40-46 летние",
+      "image": "http://fs1.4every.biz/e5ec07a9a0e3fee84a178ae990a5c0dd.jpg?w=800&h=800",
+      "color": "red-white",
+      "id": 13
+    },
+    {
+      "name": "jordan 1 retro ",
+      "brand": "nike",
+      "price": 50000,
+      "description": "размеры 39-46 летние",
+      "image": "https://nizhniy-novgorod.streetfoot.ru/wp-content/uploads/2019/02/air-jordan-1-retro-blackred.jpg",
+      "color": "red-white",
+      "id": 14
+    },
+    {
+      "name": "air jordan retro 2",
+      "brand": "nike",
+      "price": 10000,
+      "description": "размеры 38-46 летние",
+      "image": "https://ju-mp.ru/image/cache/catalog/i/bj/ip/1487ce1890c5ca11712654789f87b810-800x800.jpg",
+      "color": "red-white",
+      "id": 15
+    },
+    {
+      "name": "air jordan 1",
+      "brand": "nike",
+      "price": 30000,
+      "description": "размеры 38-44 летние",
+      "image": "https://spb.streetfoot.ru/wp-content/uploads/2019/09/705300-406-1.jpg",
+      "color": "blue-white",
+      "id": 16
+    },
+    {
+      "name": "air sport",
+      "brand": "nike",
+      "price": 29999,
+      "description": "размеры 40-44 летние",
+      "image": "http://nsdemo3.waterfilter.in.ua/image/cache/catalog/Smartshoes/13bc680c46428804df023d2d0509f717-450x450.png",
+      "color": "green-blue",
+      "id": 17
+    },
+    {
+      "name": "air retro sport",
+      "brand": "nike",
+      "price": 56000,
+      "description": "размеры 42-44 летние",
+      "image": "http://i00.i.aliimg.com/wsphoto/v0/32261696282_3/Original-Nike-Air-Jordan-1-Men-Basketball-Shoes-Retro-Nike-Air-Jordan-shoes.jpg",
+      "color": "red-dark",
+      "id": 18
+    },
+    {
+      "name": "air retro",
+      "brand": "nike",
+      "price": 72000,
+      "description": "размеры 42-47 летние",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-l/6079596813.jpg",
+      "color": "blue-white",
+      "id": 19
+    },
+    {
+      "name": "jordan air +",
+      "brand": "nike",
+      "price": 18000,
+      "description": "размеры 42-49 летние",
+      "image": "https://i.ebayimg.com/00/s/NjM2WDk0MA==/z/2dwAAOSwDNdV2LZp/$_57.JPG?set_id=880000500F",
+      "color": "red-white",
+      "id": 20
+    }
+  ]
+}
